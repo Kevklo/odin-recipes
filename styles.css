@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin:0;
+}
+
+h1 {
+    background-color: darkseagreen;
+    color: darkslategrey;
+}
+
+.cook {
+    width: 15%;
+
+}
